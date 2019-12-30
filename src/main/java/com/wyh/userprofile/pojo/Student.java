@@ -16,7 +16,6 @@ public class Student {
     @Id
     private String sid;
 //    @Column(name = "sname")
-//    @Column(name = "sname")
     private String sname;
     private Integer age;
     private String gender;
